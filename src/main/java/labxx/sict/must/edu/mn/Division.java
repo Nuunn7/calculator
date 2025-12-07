@@ -14,7 +14,7 @@ public class Division {
      */
     public double divide(double a, double b) {
         if (b == 0) {
-            throw new ArithmeticException("Cannot divide by zero");
+            throw new ArithmeticException("Error: Division by zero is not allowed!");
         }
         return a / b;
     }

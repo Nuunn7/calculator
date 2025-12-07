@@ -33,8 +33,10 @@ public class DivisionTest {
     @Test
     public void testDivideByZeroThrowsException() {
         Division calc = new Division();
-        assertThrows(ArithmeticException.class, () -> {
-            calc.divide(10.0, 0.0);
-        });
+        ArithmeticException exception = assertThrows(
+            ArithmeticException.class, 
+            () -> calc.divide(10.0, 0.0)
+        );
+        assertEquals("Error: Division by zero is not allowed!", exception.getMessage());
     }
 }
