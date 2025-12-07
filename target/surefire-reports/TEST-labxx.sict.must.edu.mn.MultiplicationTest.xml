@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="labxx.sict.must.edu.mn.MultiplicationTest" time="0.02" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="labxx.sict.must.edu.mn.MultiplicationTest" time="0.028" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\unugerel.kh.CORP\AppData\Local\Temp\surefire970239079985743440\surefirebooter-20251207182010633_3.jar C:\Users\unugerel.kh.CORP\AppData\Local\Temp\surefire970239079985743440 2025-12-07T18-20-09_559-jvmRun1 surefire-20251207182010633_1tmp surefire_0-20251207182010633_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\unugerel.kh.CORP\AppData\Local\Temp\surefire6325055437285555880\surefirebooter-20251207182713295_3.jar C:\Users\unugerel.kh.CORP\AppData\Local\Temp\surefire6325055437285555880 2025-12-07T18-27-11_792-jvmRun1 surefire-20251207182713295_1tmp surefire_0-20251207182713295_2tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\unugerel.kh.CORP\Documents\batalgaa ba turshil\lab14\calculator\target\test-classes;C:\Users\unugerel.kh.CORP\Documents\batalgaa ba turshil\lab14\calculator\target\classes;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.0\junit-jupiter-5.10.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.0\junit-jupiter-params-5.10.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\unugerel.kh.CORP"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\unugerel.kh.CORP\AppData\Local\Temp\surefire970239079985743440\surefirebooter-20251207182010633_3.jar;C:\\Users\\unugerel.kh.CORP\\.m2\\repository\\org\\jacoco\\org.jacoco.agent\\0.8.10\\org.jacoco.agent-0.8.10-runtime.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\unugerel.kh.CORP\AppData\Local\Temp\surefire6325055437285555880\surefirebooter-20251207182713295_3.jar;C:\\Users\\unugerel.kh.CORP\\.m2\\repository\\org\\jacoco\\org.jacoco.agent\\0.8.10\\org.jacoco.agent-0.8.10-runtime.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\lib\resources.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\lib\rt.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\lib\sunrsasign.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\lib\jsse.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\lib\jce.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\lib\charsets.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\lib\jfr.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -61,8 +61,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="testMultiplyPositiveNumbers" classname="labxx.sict.must.edu.mn.MultiplicationTest" time="0.003"/>
-  <testcase name="testMultiplyNegativeNumbers" classname="labxx.sict.must.edu.mn.MultiplicationTest" time="0.001"/>
+  <testcase name="testMultiplyPositiveNumbers" classname="labxx.sict.must.edu.mn.MultiplicationTest" time="0.005"/>
+  <testcase name="testMultiplyNegativeNumbers" classname="labxx.sict.must.edu.mn.MultiplicationTest" time="0.002"/>
   <testcase name="testMultiplyByZero" classname="labxx.sict.must.edu.mn.MultiplicationTest" time="0.002"/>
-  <testcase name="testMultiplyTwoNegatives" classname="labxx.sict.must.edu.mn.MultiplicationTest" time="0.001"/>
+  <testcase name="testMultiplyTwoNegatives" classname="labxx.sict.must.edu.mn.MultiplicationTest" time="0.002"/>
 </testsuite>
