@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="labxx.sict.must.edu.mn.MultiplicationTest" time="0.15" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\unugerel.kh.CORP\Documents\batalgaa ba turshil\lab14\calculator\target\test-classes;C:\Users\unugerel.kh.CORP\Documents\batalgaa ba turshil\lab14\calculator\target\classes;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.0\junit-jupiter-5.10.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.0\junit-jupiter-params-5.10.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;"/>
+    <property name="java.vm.vendor" value="Temurin"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Asia/Ulaanbaatar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\unugerel.kh.CORP\AppData\Local\Temp\surefire1556600112543857288\surefirebooter-20251207180817085_3.jar C:\Users\unugerel.kh.CORP\AppData\Local\Temp\surefire1556600112543857288 2025-12-07T18-08-13_664-jvmRun1 surefire-20251207180817085_1tmp surefire_0-20251207180817085_2tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\unugerel.kh.CORP\Documents\batalgaa ba turshil\lab14\calculator\target\test-classes;C:\Users\unugerel.kh.CORP\Documents\batalgaa ba turshil\lab14\calculator\target\classes;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.0\junit-jupiter-5.10.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.0\junit-jupiter-params-5.10.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\unugerel.kh.CORP\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\unugerel.kh.CORP"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre"/>
+    <property name="basedir" value="C:\Users\unugerel.kh.CORP\Documents\batalgaa ba turshil\lab14\calculator"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\unugerel.kh.CORP\AppData\Local\Temp\surefire1556600112543857288\surefirebooter-20251207180817085_3.jar;C:\\Users\\unugerel.kh.CORP\\.m2\\repository\\org\\jacoco\\org.jacoco.agent\\0.8.10\\org.jacoco.agent-0.8.10-runtime.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\lib\resources.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\lib\rt.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\lib\sunrsasign.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\lib\jsse.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\lib\jce.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\lib\charsets.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\lib\jfr.jar;C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_472-b08"/>
+    <property name="user.name" value="unugerel.kh"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\unugerel.kh.CORP\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\UNUGER~1.COR\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_472"/>
+    <property name="user.dir" value="C:\Users\unugerel.kh.CORP\Documents\batalgaa ba turshil\lab14\calculator"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\unugerel.kh.CORP\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\unugerel.kh.CORP\bin;C:\Users\unugerel.kh.CORP\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;C:\Users\unugerel.kh.CORP\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Oracle19\product\19.0.0\client_1;C:\Oracle19\product\19.0.0\client_1\bin;C:\Program Files\Oracle Client for Microsoft Tools;C:\Windows\system32;C:\Windows;C:\Program Files\nodejs;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\oracle\instantclient_19_24;C:\Users\unugerel.kh.CORP\Documents\apache-ant-1.10.15\bin;C:\Program Files\apache-maven-3.9.11\bin;C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Oracle19\product\19.0.0\client_1;C:\Oracle19\product\19.0.0\client_1\bin;C:\Program Files\Oracle Client for Microsoft Tools;C:\Windows\system32;C:\Windows;C:\Program Files\nodejs;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\oracle\instantclient_19_24;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Users\unugerel.kh.CORP\Documents\apache-ant-1.10.15\bin;C:\Users\unugerel.kh.CORP\AppData\Local\Programs\Python\Python312\Scripts;C:\Users\unugerel.kh.CORP\AppData\Local\Programs\Python\Python312;C:\Users\unugerel.kh.CORP\AppData\Local\Microsoft\WindowsApps;C:\Users\unugerel.kh.CORP\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\unugerel.kh.CORP\AppData\Roaming\npm;C:\Users\unugerel.kh.CORP\AppData\Local\Programs\MiKTeX\miktex\bin\x64;C:\Users\unugerel.kh.CORP\ant\apache-ant-1.10.14\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;C:\Program Files\nodejs;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Temurin"/>
+    <property name="java.vm.version" value="25.472-b08"/>
+    <property name="java.specification.maintenance.version" value="6"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testMultiplyPositiveNumbers" classname="labxx.sict.must.edu.mn.MultiplicationTest" time="0.082"/>
+  <testcase name="testMultiplyNegativeNumbers" classname="labxx.sict.must.edu.mn.MultiplicationTest" time="0.006"/>
+  <testcase name="testMultiplyByZero" classname="labxx.sict.must.edu.mn.MultiplicationTest" time="0.003"/>
+  <testcase name="testMultiplyTwoNegatives" classname="labxx.sict.must.edu.mn.MultiplicationTest" time="0.0"/>
+</testsuite>
